@@ -1,0 +1,18 @@
+<How long must a sequence be?>
+    <val_0>119.555557251</val_0>
+</How long must a sequence be?>
+<sampling frequency>
+    <val_0>20.000000000</val_0>
+</sampling frequency>
+<sampling period>
+    <val_0>47.777778625</val_0>
+</sampling period>
+<silence level cutoff>
+    <val_0>2.111111164</val_0>
+</silence level cutoff>
+<black level cutoff>
+    <val_0>5.000000000</val_0>
+</black level cutoff>
+<randomize ad order>
+    <val_0>1.000000000</val_0>
+</randomize ad order>

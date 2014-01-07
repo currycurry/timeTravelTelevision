@@ -1,0 +1,15 @@
+In file included from /Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:1:
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.h:4:33: error: ofxAutoControlPanel.h: No such file or directory
+In file included from /Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:1:
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.h:103: error: 'ofxAutoControlPanel' does not name a type
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:93: error: 'panel' was not declared in this scope
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp: In member function 'virtual void testApp::update()':
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:149: error: 'panel' was not declared in this scope
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp: In member function 'virtual void testApp::keyPressed(int)':
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:619: error: 'panel' was not declared in this scope
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:639: error: 'panel' was not declared in this scope
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp: In member function 'void testApp::digitalPinChanged(const int&)':
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:806: error: 'panel' was not declared in this scope
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:832: error: 'panel' was not declared in this scope
+/Volumes/Data/Users/catherine.mccurry/Documents/openFrameworks/oF_0071/apps/myApps/warren77_11_7_switches/src/testApp.cpp:859: error: 'panel' was not declared in this scope
